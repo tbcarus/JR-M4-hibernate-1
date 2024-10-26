@@ -2,8 +2,8 @@ package com.game.config;
 
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
-import javax.servlet.ServletContext;
-import javax.servlet.ServletException;
+import jakarta.servlet.ServletContext;
+import jakarta.servlet.ServletException;
 
 public class MyWebAppInit extends AbstractAnnotationConfigDispatcherServletInitializer {
 
